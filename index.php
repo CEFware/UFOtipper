@@ -1,7 +1,7 @@
 <?php
 ob_start();
 session_start();
-include("const_ufotipper.php");
+include("const.php");
 require("auth/twitteroauth.php");
 require("jsonRPCClient.php");
 
