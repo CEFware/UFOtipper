@@ -1,6 +1,7 @@
 UFO Tipper
 
 How It Works
+
 1. UFOTipper authenticates your identity when you Sign In via Twitter. A unique UFO coin address is then created for you.
 2. Your account becomes activated when you deposit sufficient UFO coins (2000 UFO).
 3. Now you can send UFO coins over twitter by tweeting at anyone (they do not need an account to initially receive UFO coins). For example, “@friend, thanks bro, here’s 1,000 UFO #UFOTipper”. The UFO miner fees are automatically deducted from your account.
