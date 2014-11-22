@@ -15,6 +15,8 @@ The initial commit is a dirivative work of:
 * PHP rewrite courtesy UFO Coin bounty awarded to member @Skirmantas
 * UI enhancements and bootstrap deploy by @unimercio
 * 
+
+
 For more information about UFO Tipper visit http://tipper.ufocoin.co/tips
 
 
