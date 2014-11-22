@@ -19,7 +19,7 @@ The initial commit is a dirivative work of:
 
 For more information about UFO Tipper visit http://ufocoin.co/tips
 
-See the latest version of the live tipper at:  http://tipper.ufocoin.co/tips?dep
+See the latest version of the live tipper at:  http://tipper.ufocoin.co/index_home.php
 
 
 =========
